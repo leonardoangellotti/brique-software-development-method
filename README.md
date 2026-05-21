@@ -1,4 +1,3 @@
-````md
 # BRIQUE GAME  
 Implementation of *Brique* by Luis Bolaños Mures  
 Developed by Alessio Valle and Leonardo Angellotti
@@ -136,4 +135,3 @@ The project was designed with the following objectives in mind:
 - Extensibility for future game modes and rulesets
 - Support for both CLI and GUI interfaces
 - Maintainable and testable code structure
-````
